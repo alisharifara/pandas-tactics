@@ -7,3 +7,5 @@
 03. Group by with multiple aggregations
 
 04. Column and Row slicing using loc, iloc
+
+05. Add summary column and rows to numerical dataframe
