@@ -10,3 +10,4 @@
 08. Unique column values
 09. Filling missing values of (a) column(s) with specific value(s)
 10. Getting a sorted sample from a dataframe
+11. Filter Data by multiple categories
