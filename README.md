@@ -14,4 +14,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 10. Getting a sorted sample from a dataframe
 11. Filter Data by multiple categories
 12. The apply function
-13. Indexing and Filtering columns
+13. Boolean Indexing and Filtering columns
