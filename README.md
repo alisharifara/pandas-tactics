@@ -7,3 +7,4 @@
 05. Add summary column and rows to numerical dataframe
 06. Pandas memory usage
 07. Cumulative sum
+08. Unique column values
