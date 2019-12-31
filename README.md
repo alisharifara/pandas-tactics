@@ -1,5 +1,7 @@
 # pandas-tactics
 
+Pandas is one of the most useful tools for data science operations. Pandas, along with Scikit-learn provides almost the entire stack needed by a data scientist.
+
 01. Styling
 02. Options and Settings
 03. Group by with multiple aggregations
