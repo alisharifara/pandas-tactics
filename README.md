@@ -9,3 +9,4 @@
 07. Cumulative sum
 08. Unique column values
 09. Filling missing values of (a) column(s) with specific value(s)
+10. Getting a sorted sample from a dataframe
