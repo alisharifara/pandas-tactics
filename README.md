@@ -15,3 +15,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 11. Filter Data by multiple categories
 12. The apply function
 13. Boolean Indexing and Filtering columns
+14. imputing missing values - replace them with mean
