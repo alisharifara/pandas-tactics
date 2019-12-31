@@ -1,4 +1,4 @@
-# pandas-tricks
+# pandas-tactics
 
 01. Styling
 02. Options and Settings
