@@ -21,3 +21,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 17. Filtering DataFrame row containing a string pattern
 18. Rename DataFrame column names
 19. Check if a column exists in DataFrame
+20. Read specific columns of csv file
