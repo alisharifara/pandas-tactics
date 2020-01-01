@@ -24,3 +24,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 20. Read specific columns of csv file
 21. Drop dataframe column(s) using name or index
 22. Randomly Generating a DataFrame
+23. Get specific columns based on their data types
