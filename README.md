@@ -18,3 +18,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 14. Imputing missing values - replace them with mean
 15. crosstab
 16. Change the order of DataFrame columns
+17. Filtering DataFrame row containing a string pattern
