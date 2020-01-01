@@ -22,3 +22,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 18. Rename DataFrame column names
 19. Check if a column exists in DataFrame
 20. Read specific columns of csv file
+21. Drop dataframe column(s) using name or index
