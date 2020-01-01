@@ -29,3 +29,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 25. Merge with indicator
 26. Join two columns
 27. Get Unique row values from DataFrame column
+28. Reverse row order
