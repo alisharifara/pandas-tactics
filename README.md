@@ -3,7 +3,7 @@
 Pandas is one of the most useful tools for data science operations. Pandas, along with Scikit-learn provides almost the entire stack needed by a data scientist.
 
 01. Styling
-02. Options and Settings
+02. Options and settings
 03. Group by with multiple aggregations
 04. Column and Row slicing using loc, iloc
 05. Add summary column and rows to numerical dataframe
@@ -31,3 +31,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 27. Get Unique row values from DataFrame column
 28. Reverse row order
 29. Reverse column order
+30. Reshape a multiIndexed series
