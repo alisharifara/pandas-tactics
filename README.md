@@ -32,3 +32,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 28. Reverse row order
 29. Reverse column order
 30. Reshape a multiIndexed series
+31. Create pivot table
