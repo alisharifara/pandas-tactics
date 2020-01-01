@@ -17,4 +17,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 13. Boolean Indexing and Filtering columns
 14. Imputing missing values - replace them with mean
 15. crosstab
-16. Change order of DataFrame columns
+16. Change the order of DataFrame columns
