@@ -26,3 +26,4 @@ Pandas is one of the most useful tools for data science operations. Pandas, alon
 22. Randomly Generating a DataFrame
 23. Get specific columns based on their data types
 24. Value counts
+25. Merge with indicator
